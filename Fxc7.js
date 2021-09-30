@@ -1,6 +1,6 @@
 /*
 * Tambahin nama author lah
-* Author MhankBarBar, Farhan
+* Author Abiul Gz
 * Tambahin ya Cape Gan ngefix² Yg Ga work
 * Jan numpang nama doank
 
