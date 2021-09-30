@@ -17,15 +17,15 @@ return `
 ┠≽ *${prefix}kapankah aku menikah?*
 ┠≽ *${prefix}bisakah aku memilikimu?*
 ┠≽ *${prefix}rate reply something*
-┠≽ *${prefix}watak Farhan*
-┠≽ *${prefix}hobby Farhan*
-┠≽ *${prefix}gantengcek Farhan*
+┠≽ *${prefix}watak*
+┠≽ *${prefix}hobby*
+┠≽ *${prefix}gantengcek*
 ┠≽ *${prefix}cantikcek Iriene*
 ┠≽ *${prefix}persengay Topan*
-┠≽ *${prefix}pbucin Farhan*
+┠≽ *${prefix}pbucin*
 ┠≽ *${prefix}mimpi Ular*
-┠≽ *${prefix}artinama Farhan*
-┠≽ *${prefix}pasangan Farhan/Iriene*
+┠≽ *${prefix}artinama*
+┠≽ *${prefix}pasangan Nama lu/Doi*
 ┠≽ *${prefix}tanggaljadian 13/02/2021*
 ┠≽ *${prefix}zodiak taurus*
 ┬
